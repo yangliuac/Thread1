@@ -9,5 +9,6 @@ public class Run {
 //		Thread.sleep(1000);
 		System.out.println("end =="+myThread.isAlive());
 		System.out.println("hello gitHub Server");
+		System.out.println("hello gitHub User");
 	}
 }

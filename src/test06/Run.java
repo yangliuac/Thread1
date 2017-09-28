@@ -8,6 +8,6 @@ public class Run {
 		myThread.start();
 //		Thread.sleep(1000);
 		System.out.println("end =="+myThread.isAlive());
-		System.out.println();
+		System.out.println("hello gitHub Server");
 	}
 }
